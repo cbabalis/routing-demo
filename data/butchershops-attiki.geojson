@@ -1,0 +1,3161 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-02-23T15:02:42Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/369677346",
+        "building": "yes",
+        "name": "Ρίζος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.7368756,
+              38.0899678
+            ],
+            [
+              23.7368756,
+              38.089887
+            ],
+            [
+              23.7369923,
+              38.089887
+            ],
+            [
+              23.7369923,
+              38.0899678
+            ],
+            [
+              23.7368756,
+              38.0899678
+            ]
+          ]
+        ]
+      },
+      "id": "way/369677346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/420621365",
+        "building": "yes",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.8750809,
+              37.909974
+            ],
+            [
+              23.8749152,
+              37.9099836
+            ],
+            [
+              23.874914,
+              37.9099695
+            ],
+            [
+              23.8748379,
+              37.9099722
+            ],
+            [
+              23.8748372,
+              37.9099639
+            ],
+            [
+              23.8747689,
+              37.9099663
+            ],
+            [
+              23.8747839,
+              37.9098623
+            ],
+            [
+              23.8748094,
+              37.9098323
+            ],
+            [
+              23.875054,
+              37.9098181
+            ],
+            [
+              23.8750809,
+              37.909974
+            ]
+          ]
+        ]
+      },
+      "id": "way/420621365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434350746",
+        "addr:city": "Αργυρούπολη",
+        "addr:housenumber": "1",
+        "addr:postcode": "16451",
+        "addr:street": "Αργυρουπόλεως",
+        "building": "yes",
+        "building:levels": "2",
+        "building:material": "mirror",
+        "name": "Μελέτης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.7536109,
+              37.9065962
+            ],
+            [
+              23.7536607,
+              37.9064824
+            ],
+            [
+              23.7538554,
+              37.9064721
+            ],
+            [
+              23.7538629,
+              37.9066043
+            ],
+            [
+              23.7537184,
+              37.9066126
+            ],
+            [
+              23.7536109,
+              37.9065962
+            ]
+          ]
+        ]
+      },
+      "id": "way/434350746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/460537464",
+        "addr:city": "Γέρακας",
+        "addr:housenumber": "88",
+        "addr:postcode": "15344",
+        "addr:street": "Μαραθώνος",
+        "building": "yes",
+        "name": "Ο Στέλιος",
+        "phone": "210-6611907",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.8562881,
+              38.0083461
+            ],
+            [
+              23.856338,
+              38.0084196
+            ],
+            [
+              23.8563301,
+              38.0084217
+            ],
+            [
+              23.8562353,
+              38.0084466
+            ],
+            [
+              23.8561926,
+              38.0084086
+            ],
+            [
+              23.8561899,
+              38.008395
+            ],
+            [
+              23.8561933,
+              38.0083779
+            ],
+            [
+              23.8562161,
+              38.0083673
+            ],
+            [
+              23.8562881,
+              38.0083461
+            ]
+          ]
+        ]
+      },
+      "id": "way/460537464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/604848345",
+        "addr:city": "Νέα Ερυθραία",
+        "addr:housenumber": "132",
+        "addr:postcode": "14671",
+        "addr:street": "Τατοΐου",
+        "building": "yes",
+        "contact:mobile": "+30 6937804991",
+        "delivery": "yes",
+        "email": "kontakis.marios@gmail.com",
+        "facebook": "https://www.facebook.com/pages/%CE%9A%CE%BF%CE%BD%CF%84%CE%B1%CE%BA%CE%B7%CF%82-%CE%95%CE%BA%CE%BB%CE%B5%CE%BA%CF%84%CE%BF%CE%BD-%CE%9A%CF%81%CE%B5%CE%BF%CF%80%CF%89%CE%BB%CE%B5%CE%B9%CE%BF%CE%BD/221292127947858",
+        "loc_name": "Μορτερό",
+        "name": "Κρεοπωλείο \"Κοντάκης\"",
+        "opening_hours": "Mo-Fr 09:00-21:00, Sa 09:00-20:00, Su 09:00-15:00",
+        "operator": "Κοντάκης Μάριος",
+        "phone": "+30 210 6254284",
+        "shop": "butcher",
+        "website": "https://kontakismeat.olympicbiz.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.8107445,
+              38.0985573
+            ],
+            [
+              23.8106982,
+              38.0984431
+            ],
+            [
+              23.8108074,
+              38.0984122
+            ],
+            [
+              23.8108193,
+              38.09844
+            ],
+            [
+              23.8108516,
+              38.0985231
+            ],
+            [
+              23.8107445,
+              38.0985573
+            ]
+          ]
+        ]
+      },
+      "id": "way/604848345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/621446323",
+        "addr:city": "Γλυκά Νερά",
+        "addr:housenumber": "8",
+        "addr:postcode": "15354",
+        "addr:street": "Σπάτων",
+        "building": "yes",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "phone": "21 0661 2662",
+        "shop": "butcher",
+        "website": "https://www.andriopoulosmarket.gr/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.8536118,
+              38.0086853
+            ],
+            [
+              23.8536588,
+              38.0086185
+            ],
+            [
+              23.8536105,
+              38.0085969
+            ],
+            [
+              23.8535949,
+              38.0085157
+            ],
+            [
+              23.853904,
+              38.0084489
+            ],
+            [
+              23.8539979,
+              38.0086205
+            ],
+            [
+              23.8539366,
+              38.0086277
+            ],
+            [
+              23.8539392,
+              38.0086647
+            ],
+            [
+              23.8538101,
+              38.0086873
+            ],
+            [
+              23.8537749,
+              38.0086678
+            ],
+            [
+              23.8537305,
+              38.0087325
+            ],
+            [
+              23.8536118,
+              38.0086853
+            ]
+          ]
+        ]
+      },
+      "id": "way/621446323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/704094042",
+        "building": "yes",
+        "name": "Κρεοπωλείο Καλοφουτης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.9332381,
+              37.8834021
+            ],
+            [
+              23.9332715,
+              37.8834447
+            ],
+            [
+              23.9331028,
+              37.8835103
+            ],
+            [
+              23.9331074,
+              37.8835171
+            ],
+            [
+              23.9330155,
+              37.8835523
+            ],
+            [
+              23.932969,
+              37.8834845
+            ],
+            [
+              23.933015,
+              37.8834671
+            ],
+            [
+              23.9330264,
+              37.8834851
+            ],
+            [
+              23.9330809,
+              37.8834629
+            ],
+            [
+              23.9332381,
+              37.8834021
+            ]
+          ]
+        ]
+      },
+      "id": "way/704094042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1417994947",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7408503,
+          37.9599933
+        ]
+      },
+      "id": "node/1417994947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1619150531",
+        "name": "Γκούστης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7194711,
+          38.0024974
+        ]
+      },
+      "id": "node/1619150531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1668099885",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8002183,
+          38.0474183
+        ]
+      },
+      "id": "node/1668099885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751285602",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.789756,
+          37.9871762
+        ]
+      },
+      "id": "node/1751285602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1997996597",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7198307,
+          38.0847371
+        ]
+      },
+      "id": "node/1997996597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2043174977",
+        "indoor": "room",
+        "level": "0",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7741386,
+          37.9740309
+        ]
+      },
+      "id": "node/2043174977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2044833415",
+        "addr:city": "Αθήνα",
+        "addr:country": "GR",
+        "addr:housenumber": "70",
+        "addr:postcode": "15772",
+        "addr:street": "Γεωργίου Ζωγράφου",
+        "level": "0",
+        "name": "Γιαννακόπουλος Αθανάσιος",
+        "opening_hours": "Mo,We 08:00-15:30; Tu,Th-Fr 08:00-15:30,17:30-20:30; Sa 08:00-16:00; PH closed",
+        "phone": "+30 210 7713865",
+        "shop": "butcher",
+        "wheelchair": "no",
+        "wheelchair:description": "no",
+        "wheelchair:entrance_width": "130",
+        "wheelchair:step_height": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.774635,
+          37.973314
+        ]
+      },
+      "id": "node/2044833415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102157975",
+        "name": "Κρεοπωλείο",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7757336,
+          38.0461355
+        ]
+      },
+      "id": "node/2102157975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2131631845",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7776625,
+          38.020969
+        ]
+      },
+      "id": "node/2131631845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2200029827",
+        "name": "Σίμος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.755254,
+          38.035497
+        ]
+      },
+      "id": "node/2200029827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2203101035",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7504511,
+          38.0371303
+        ]
+      },
+      "id": "node/2203101035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2216377868",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6231649,
+          37.9661059
+        ]
+      },
+      "id": "node/2216377868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2519715492",
+        "name": "Η ΘΕΣΣΑΛΙΑ",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7195952,
+          38.0060512
+        ]
+      },
+      "id": "node/2519715492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2568294313",
+        "addr:city": "Αχαρνές",
+        "addr:country": "GR",
+        "addr:housenumber": "37",
+        "addr:street": "Δεκελείας",
+        "name": "Αφοι Παγωνά",
+        "shop": "butcher",
+        "survey:date": "2013-12-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7398647,
+          38.081887
+        ]
+      },
+      "id": "node/2568294313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2620920472",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7451806,
+          38.0844229
+        ]
+      },
+      "id": "node/2620920472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2675632041",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7195288,
+          37.9997596
+        ]
+      },
+      "id": "node/2675632041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2724312681",
+        "name": "Πορετσάνος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7763157,
+          38.064157
+        ]
+      },
+      "id": "node/2724312681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2771248930",
+        "name": "Δρακόπουλος Ψαρρός",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7294608,
+          37.9351051
+        ]
+      },
+      "id": "node/2771248930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2792095795",
+        "name": "Ο Βασίλης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7631447,
+          38.0333489
+        ]
+      },
+      "id": "node/2792095795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2802120110",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7355834,
+          38.0805204
+        ]
+      },
+      "id": "node/2802120110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2802120161",
+        "name": "Κατσανδρής",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7382882,
+          38.0844737
+        ]
+      },
+      "id": "node/2802120161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2802120174",
+        "addr:city": "Αχαρνές",
+        "addr:housenumber": "36",
+        "addr:street": "Αγίας Τριάδος",
+        "name": "Φίλης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7405281,
+          38.0859136
+        ]
+      },
+      "id": "node/2802120174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2804526334",
+        "addr:housenumber": "3",
+        "addr:street": "Εδέσσης",
+        "name": "Λεβέντης",
+        "opening_hours": "Mo-Fr 07:00-21:00;Sa 07:00-20:00",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6588778,
+          37.9634759
+        ]
+      },
+      "id": "node/2804526334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2813609887",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6350087,
+          37.9292341
+        ]
+      },
+      "id": "node/2813609887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2848814553",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6341509,
+          37.930461
+        ]
+      },
+      "id": "node/2848814553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2917688643",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.741858,
+          38.0021705
+        ]
+      },
+      "id": "node/2917688643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3105981933",
+        "name": "ΚΡΕ-ΠΑΠ",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6931275,
+          38.0372079
+        ]
+      },
+      "id": "node/3105981933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3118016100",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7175309,
+          37.9635451
+        ]
+      },
+      "id": "node/3118016100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265973634",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7373349,
+          38.089502
+        ]
+      },
+      "id": "node/3265973634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265973636",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7415355,
+          38.0896599
+        ]
+      },
+      "id": "node/3265973636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265973657",
+        "name": "Θανάσης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7398616,
+          38.0890004
+        ]
+      },
+      "id": "node/3265973657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3267567935",
+        "name": "Δαβουτης",
+        "shop": "butcher",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.760089,
+          38.0430312
+        ]
+      },
+      "id": "node/3267567935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3353548131",
+        "int_name": "Farma Parnassou",
+        "name": "Φάρμα Παρνασσού",
+        "shop": "butcher",
+        "website": "http://www.farmaparnassou.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6689429,
+          37.9478573
+        ]
+      },
+      "id": "node/3353548131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3353548133",
+        "int_name": "Antikristo",
+        "name": "Αντικριστό",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6698775,
+          37.9490334
+        ]
+      },
+      "id": "node/3353548133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3353587976",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6822265,
+          37.9511153
+        ]
+      },
+      "id": "node/3353587976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3364315720",
+        "name": "Αντώνης",
+        "name:en": "Antonis",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6903652,
+          37.9507196
+        ]
+      },
+      "id": "node/3364315720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372263509",
+        "name": "Βερβέρης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.635073,
+          37.9354497
+        ]
+      },
+      "id": "node/3372263509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3388586078",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6343181,
+          37.9313247
+        ]
+      },
+      "id": "node/3388586078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3392547291",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7039754,
+          37.9508111
+        ]
+      },
+      "id": "node/3392547291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3397565120",
+        "addr:street": "Αλκιβιάδου & Σκουζέ",
+        "name": "Σταματελόπουλος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6451346,
+          37.9386052
+        ]
+      },
+      "id": "node/3397565120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3436427852",
+        "shop": "butcher",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7226509,
+          37.9643068
+        ]
+      },
+      "id": "node/3436427852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452647549",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7098255,
+          37.9675954
+        ]
+      },
+      "id": "node/3452647549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452964418",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6522056,
+          37.9366881
+        ]
+      },
+      "id": "node/3452964418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453161569",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6311056,
+          37.9312871
+        ]
+      },
+      "id": "node/3453161569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453188417",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.632387,
+          37.9303722
+        ]
+      },
+      "id": "node/3453188417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453191246",
+        "int_name": "Mykonos",
+        "name": "Μύκονος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6326283,
+          37.9295063
+        ]
+      },
+      "id": "node/3453191246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3454090112",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.638859,
+          37.9305121
+        ]
+      },
+      "id": "node/3454090112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3454185115",
+        "int_name": "Kreopoleio",
+        "name": "Κρεοπωλείο",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6453696,
+          37.9331188
+        ]
+      },
+      "id": "node/3454185115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3454368469",
+        "addr:city": "Πειραιάς",
+        "addr:street": "Αφεντούλη",
+        "int_name": "Chaniotis",
+        "name": "Χανιώτης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6439487,
+          37.9351419
+        ]
+      },
+      "id": "node/3454368469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3457457914",
+        "addr:city": "Πειραιάς",
+        "addr:housenumber": "15",
+        "addr:neighborhood": "Νέο Φάληρο",
+        "addr:street": "Σμολένσκυ",
+        "int_name": "O Panagiotis",
+        "name": "Ο Παναγιώτης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6686436,
+          37.9470947
+        ]
+      },
+      "id": "node/3457457914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475028092",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6976762,
+          37.9483963
+        ]
+      },
+      "id": "node/3475028092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3485499198",
+        "shop": "butcher",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.721324,
+          37.9633148
+        ]
+      },
+      "id": "node/3485499198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3551018663",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7038045,
+          37.94927
+        ]
+      },
+      "id": "node/3551018663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3651985062",
+        "addr:city": "Καλλιθέα",
+        "addr:street": "Πραξιτέλους",
+        "name": "Σήφης",
+        "name:en": "Sifis",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6874706,
+          37.9446048
+        ]
+      },
+      "id": "node/3651985062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3655762906",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7115509,
+          37.9550073
+        ]
+      },
+      "id": "node/3655762906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3655762914",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6968583,
+          37.948573
+        ]
+      },
+      "id": "node/3655762914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3655785859",
+        "name": "Porky",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7027073,
+          37.9544393
+        ]
+      },
+      "id": "node/3655785859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3696014563",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8164846,
+          37.8414502
+        ]
+      },
+      "id": "node/3696014563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3707331564",
+        "name": "Μοσχολιός",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6417042,
+          37.9350984
+        ]
+      },
+      "id": "node/3707331564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3718693514",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7103357,
+          37.9328815
+        ]
+      },
+      "id": "node/3718693514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3718695591",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7007175,
+          37.9242262
+        ]
+      },
+      "id": "node/3718695591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3730097998",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.698435,
+          37.9477973
+        ]
+      },
+      "id": "node/3730097998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3734495406",
+        "name": "Φαλιέρος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7439027,
+          38.0898002
+        ]
+      },
+      "id": "node/3734495406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768671843",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6769481,
+          37.9898306
+        ]
+      },
+      "id": "node/3768671843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768684961",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7676175,
+          38.0478557
+        ]
+      },
+      "id": "node/3768684961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768684971",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7630679,
+          38.0486914
+        ]
+      },
+      "id": "node/3768684971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3784595837",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6286769,
+          37.9752504
+        ]
+      },
+      "id": "node/3784595837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3784599931",
+        "addr:city": "Πειραιάς",
+        "addr:street": "Σαχτούρη",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6424436,
+          37.9318116
+        ]
+      },
+      "id": "node/3784599931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3784600501",
+        "name": "Χαντζής",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6319164,
+          37.9642556
+        ]
+      },
+      "id": "node/3784600501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3784600504",
+        "name": "Βερβέρης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6325764,
+          37.9643379
+        ]
+      },
+      "id": "node/3784600504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793382418",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6518841,
+          37.9433757
+        ]
+      },
+      "id": "node/3793382418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793383086",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6323823,
+          37.9303934
+        ]
+      },
+      "id": "node/3793383086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3803531796",
+        "name": "Βερβέρης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6433249,
+          37.9371829
+        ]
+      },
+      "id": "node/3803531796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3803532284",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.642792,
+          37.9307325
+        ]
+      },
+      "id": "node/3803532284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3808470447",
+        "addr:city": "Ελληνικό",
+        "addr:housenumber": "4",
+        "addr:postcode": "16777",
+        "addr:street": "Τιτάνων",
+        "name": "Παυλόπουλος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7433095,
+          37.9064185
+        ]
+      },
+      "id": "node/3808470447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3809327511",
+        "addr:city": "Μοσχάτο",
+        "name": "Μπερεκέτι",
+        "name:el": "Μπερεκέτι",
+        "name:en": "Mpereketi",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6802634,
+          37.9548678
+        ]
+      },
+      "id": "node/3809327511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3864696563",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7195049,
+          38.001768
+        ]
+      },
+      "id": "node/3864696563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3864799690",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6715994,
+          38.0038097
+        ]
+      },
+      "id": "node/3864799690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3942492068",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "67",
+        "addr:postcode": "11524",
+        "addr:street": "Πανόρμου",
+        "name": "Κρεοπωλείο",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7604728,
+          37.9921969
+        ]
+      },
+      "id": "node/3942492068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3960522406",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6413903,
+          37.9366705
+        ]
+      },
+      "id": "node/3960522406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3972254229",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6998698,
+          37.9479461
+        ]
+      },
+      "id": "node/3972254229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3972549240",
+        "addr:city": "Καλλιθέα",
+        "addr:housenumber": "86",
+        "addr:street": "Ξενοφώντος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6942419,
+          37.9487905
+        ]
+      },
+      "id": "node/3972549240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3972954353",
+        "addr:city": "Μοσχάτο",
+        "addr:housenumber": "45",
+        "addr:street": "Μακρυγιάννη",
+        "name": "Κοντοχρήστος",
+        "name:en": "Kontoxristos",
+        "shop": "butcher",
+        "website": "http://kontoxristos.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6777312,
+          37.9482254
+        ]
+      },
+      "id": "node/3972954353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974383348",
+        "addr:city": "Πειραιάς",
+        "addr:housenumber": "163",
+        "addr:postcode": "18535",
+        "addr:street": "Καραΐσκου",
+        "description": "κρεοπωλείο, ψητοπωλείο",
+        "name": "Οικογένεια Σκουτέρη",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6452767,
+          37.9394086
+        ]
+      },
+      "id": "node/3974383348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008256684",
+        "name": "ΣΤΡΑΪΤΟΥΡΗΣ",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6500721,
+          37.943877
+        ]
+      },
+      "id": "node/4008256684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008262090",
+        "name": "Ματθιόπουλος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6504716,
+          37.9447593
+        ]
+      },
+      "id": "node/4008262090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008262712",
+        "addr:city": "Πειραιάς",
+        "addr:housenumber": "48-50",
+        "addr:postcode": "185 39",
+        "addr:street": "Σαχτούρη",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6413383,
+          37.9356267
+        ]
+      },
+      "id": "node/4008262712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4018058359",
+        "addr:housenumber": "45",
+        "addr:street": "Ευριπίδου",
+        "name": "MIRAN",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7258091,
+          37.980014
+        ]
+      },
+      "id": "node/4018058359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4028434498",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7116568,
+          37.9582191
+        ]
+      },
+      "id": "node/4028434498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030594708",
+        "name": "Τα Τρίκαλα",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7406188,
+          37.9852119
+        ]
+      },
+      "id": "node/4030594708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030596022",
+        "addr:street": "Χρυσοστόμου Σμύρνης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7318545,
+          38.0186649
+        ]
+      },
+      "id": "node/4030596022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4061846342",
+        "addr:city": "Πειραιάς",
+        "addr:housenumber": "37",
+        "addr:street": "Αλέξανδρου Παπαναστασίου",
+        "name": "Στέλιος",
+        "phone": "+30 21 0412 0066",
+        "shop": "butcher",
+        "website": "http://www.ostelios.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6577707,
+          37.9378334
+        ]
+      },
+      "id": "node/4061846342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4093353791",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6724194,
+          37.9598824
+        ]
+      },
+      "id": "node/4093353791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4099787360",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7064741,
+          37.9614492
+        ]
+      },
+      "id": "node/4099787360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4172286383",
+        "addr:city": "Ελληνικό",
+        "addr:postcode": "16777",
+        "name": "Δήμητρας",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.751913,
+          37.8923423
+        ]
+      },
+      "id": "node/4172286383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4218904178",
+        "addr:city": "Καλλιθέα",
+        "addr:housenumber": "13",
+        "addr:street": "Περικλέους",
+        "name": "Η Μυτιλήνη",
+        "phone": "+30 21 0956 8130",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6988497,
+          37.9496409
+        ]
+      },
+      "id": "node/4218904178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261862289",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7583172,
+          37.9905964
+        ]
+      },
+      "id": "node/4261862289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4269790932",
+        "addr:city": "Αργυρούπολη",
+        "addr:housenumber": "63",
+        "addr:postcode": "16451",
+        "addr:street": "Κύπρου",
+        "name": "Φάρμα κρεάτων Αργυρούπολης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7504986,
+          37.9110032
+        ]
+      },
+      "id": "node/4269790932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270654389",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6824415,
+          37.991577
+        ]
+      },
+      "id": "node/4270654389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4285022977",
+        "addr:street": "28ης Οκτωβρίου",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7661247,
+          38.0055382
+        ]
+      },
+      "id": "node/4285022977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4307821279",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7531104,
+          37.9603886
+        ]
+      },
+      "id": "node/4307821279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336591008",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7366402,
+          38.0233725
+        ]
+      },
+      "id": "node/4336591008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348427926",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.750344,
+          38.024369
+        ]
+      },
+      "id": "node/4348427926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4352686133",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.747781,
+          38.0255138
+        ]
+      },
+      "id": "node/4352686133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4382620625",
+        "name": "Μάλλιαρης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6434702,
+          37.9454251
+        ]
+      },
+      "id": "node/4382620625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384304723",
+        "name": "Καλλιμάνης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7613857,
+          37.9778311
+        ]
+      },
+      "id": "node/4384304723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384304794",
+        "addr:city": "Ζωγράφου",
+        "addr:housenumber": "2",
+        "addr:postcode": "15771",
+        "addr:street": "Ούλωφ Πάλμε",
+        "cuisine": "souvlaki",
+        "name": "Το χασαπάκι",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7606816,
+          37.9749649
+        ]
+      },
+      "id": "node/4384304794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394808919",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7661835,
+          37.9742806
+        ]
+      },
+      "id": "node/4394808919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413949366",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "14",
+        "addr:street": "Αμαλιάδος",
+        "name": "Η Μακρακώμη",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7593529,
+          37.987931
+        ]
+      },
+      "id": "node/4413949366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4436866862",
+        "name": "Κοτογωνιά",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6317635,
+          37.9317331
+        ]
+      },
+      "id": "node/4436866862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447924090",
+        "addr:street": "Λεωφόρος Ιωνίας",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7314377,
+          38.0191622
+        ]
+      },
+      "id": "node/4447924090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4454213040",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7792997,
+          38.0347934
+        ]
+      },
+      "id": "node/4454213040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561127235",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6520191,
+          37.9439248
+        ]
+      },
+      "id": "node/4561127235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4579984327",
+        "name": "Νικηφόρος",
+        "name:en": "Nikiforos",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7644066,
+          37.9856529
+        ]
+      },
+      "id": "node/4579984327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588166198",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7482355,
+          37.9035247
+        ]
+      },
+      "id": "node/4588166198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4659956292",
+        "name": "Butchers",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6489059,
+          37.9409568
+        ]
+      },
+      "id": "node/4659956292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4678896849",
+        "addr:city": "Γέρακας",
+        "addr:housenumber": "29",
+        "addr:postcode": "15344",
+        "addr:street": "Λασιθίου",
+        "name": "Βιολογικό Κρεοπωλειό",
+        "phone": "21 0665 4260",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85548,
+          38.0105468
+        ]
+      },
+      "id": "node/4678896849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4915297656",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "69",
+        "addr:street": "Φωκά Ιωάννου",
+        "name": "Κρεοπωλείο «Γιαχαλής»",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7478702,
+          38.0234724
+        ]
+      },
+      "id": "node/4915297656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5252374109",
+        "addr:city": "Πεύκη",
+        "name": "Τα Καλά Παιδιά",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7951381,
+          38.0593502
+        ]
+      },
+      "id": "node/5252374109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5252374111",
+        "addr:city": "Πεύκη",
+        "addr:housenumber": "5",
+        "addr:street": "Ειρήνης",
+        "name": "Tolis",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7961612,
+          38.0596995
+        ]
+      },
+      "id": "node/5252374111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5305178822",
+        "name": "Πηγή του κρέατος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6709123,
+          38.0389438
+        ]
+      },
+      "id": "node/5305178822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5305259123",
+        "name": "Γιώργος Σταμούλης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6774857,
+          38.0353941
+        ]
+      },
+      "id": "node/5305259123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466953668",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7973747,
+          38.0129779
+        ]
+      },
+      "id": "node/5466953668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5491046317",
+        "addr:city": "Κηφισιά",
+        "addr:housenumber": "73",
+        "addr:street": "Τατοΐου",
+        "name": "Φάρμα Μπράλου",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8093325,
+          38.0873047
+        ]
+      },
+      "id": "node/5491046317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604590371",
+        "name": "Δαβούτης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8130958,
+          38.0164144
+        ]
+      },
+      "id": "node/5604590371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604610957",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7866238,
+          38.0066858
+        ]
+      },
+      "id": "node/5604610957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5814863479",
+        "addr:city": "Γέρακας",
+        "addr:postcode": "15344",
+        "addr:street": "Αγίου Νεκταρίου",
+        "name": "Κατσούλας",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8593731,
+          38.0261473
+        ]
+      },
+      "id": "node/5814863479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5815035939",
+        "name": "Ηλίας Γκιόκας",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6535773,
+          37.9758641
+        ]
+      },
+      "id": "node/5815035939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5884687165",
+        "name": "ΚΡΕΟΠΩΛΕΙΟ ΙΩΑΝΝΙΔΗΣ ΑΝΤΩΝΗΣ",
+        "phone": "2109016721",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7355757,
+          37.9595862
+        ]
+      },
+      "id": "node/5884687165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6153170571",
+        "addr:street": "Θρακομακεδόνων",
+        "name": "Κρεαταγορά Θρακομακεδόνων",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7502202,
+          38.1197855
+        ]
+      },
+      "id": "node/6153170571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6175441737",
+        "name": "Kings of Vape",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7487428,
+          37.9079904
+        ]
+      },
+      "id": "node/6175441737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6201341625",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7477675,
+          38.0314195
+        ]
+      },
+      "id": "node/6201341625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6243378052",
+        "name": "Μπέλλος",
+        "opening_hours": "Mo, We, Sa 07:30-17:00; Tu, Th, Fr 07:30-21:00",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.753559,
+          38.0334661
+        ]
+      },
+      "id": "node/6243378052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6243518474",
+        "name": "Τσεκουρας",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7451554,
+          38.0322817
+        ]
+      },
+      "id": "node/6243518474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6296339684",
+        "addr:city": "Άνω Λιόσια",
+        "addr:housenumber": "65",
+        "addr:postcode": "13341",
+        "addr:street": "Πηνειού",
+        "addr:street:en": "Piniou",
+        "name": "Κρεαταγορά",
+        "name:en": "Kreatagora",
+        "payment:cash": "yes",
+        "phone": "+30 2102482011",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7059468,
+          38.0872177
+        ]
+      },
+      "id": "node/6296339684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6367340570",
+        "name": "Ο Πάρης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.714606,
+          37.9369968
+        ]
+      },
+      "id": "node/6367340570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6488669294",
+        "name": "Μελέτης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7303261,
+          38.0529838
+        ]
+      },
+      "id": "node/6488669294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6512812410",
+        "name": "Το Κρεοπωλείον",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7138454,
+          38.0624901
+        ]
+      },
+      "id": "node/6512812410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6513221399",
+        "name": "Το Κρεοπωλείο Του Παύλου",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7104876,
+          38.0820085
+        ]
+      },
+      "id": "node/6513221399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6516573225",
+        "name": "Πλαβούκος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6689372,
+          38.1027225
+        ]
+      },
+      "id": "node/6516573225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6569669819",
+        "addr:city": "ΚΟΡΥΔΑΛΛΟΣ",
+        "addr:housenumber": "18",
+        "addr:postcode": "18122",
+        "addr:street": "ΚΡΟΝΟΥ",
+        "name": "O ΜΑΝΩΛΗΣ",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6423129,
+          37.9862496
+        ]
+      },
+      "id": "node/6569669819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6574160405",
+        "name": "Γιάννης Κατσανδρής",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7381463,
+          38.0843121
+        ]
+      },
+      "id": "node/6574160405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6628043323",
+        "name": "Καλογιάννη",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7106865,
+          37.9691115
+        ]
+      },
+      "id": "node/6628043323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6681268890",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7173284,
+          37.9101003
+        ]
+      },
+      "id": "node/6681268890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6727532715",
+        "name": "Εμπορία Κρεάτων",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7278782,
+          37.9798247
+        ]
+      },
+      "id": "node/6727532715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6767506120",
+        "name": "Το παραδοσιακό",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7999602,
+          38.0222787
+        ]
+      },
+      "id": "node/6767506120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6781473459",
+        "name": "Άκης Γράβαρης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7520247,
+          38.041096
+        ]
+      },
+      "id": "node/6781473459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6782409294",
+        "name": "Γιαννόπουλος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7520201,
+          38.041424
+        ]
+      },
+      "id": "node/6782409294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6782419026",
+        "name": "Δουγένης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7519803,
+          38.0415058
+        ]
+      },
+      "id": "node/6782419026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6782555985",
+        "name": "Κοτέτσι",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7536392,
+          38.0422608
+        ]
+      },
+      "id": "node/6782555985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7013178198",
+        "name": "Παυλίδης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7042684,
+          37.9645013
+        ]
+      },
+      "id": "node/7013178198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028438832",
+        "name": "New tastes",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6993813,
+          37.9623718
+        ]
+      },
+      "id": "node/7028438832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7040100146",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7252576,
+          37.9665633
+        ]
+      },
+      "id": "node/7040100146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149074484",
+        "name": "Minimarket",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7557576,
+          38.0415234
+        ]
+      },
+      "id": "node/7149074484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7178247882",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6691209,
+          38.1030906
+        ]
+      },
+      "id": "node/7178247882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7214488552",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7005312,
+          37.9240168
+        ]
+      },
+      "id": "node/7214488552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7384249429",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8319991,
+          38.014498
+        ]
+      },
+      "id": "node/7384249429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7417320137",
+        "addr:housenumber": "34",
+        "addr:street": "Ευξείνου Πόντου",
+        "name": "Meat & m...eat",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72576,
+          37.9423003
+        ]
+      },
+      "id": "node/7417320137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856788931",
+        "name": "Κρεαταγορά Νάξου",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.705135,
+          38.0754503
+        ]
+      },
+      "id": "node/7856788931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7862604280",
+        "name": "Γη Ελασσόνας",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8080268,
+          38.0563214
+        ]
+      },
+      "id": "node/7862604280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7862604777",
+        "name": "Κυριακάκης",
+        "organic": "yes",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8077712,
+          38.0553178
+        ]
+      },
+      "id": "node/7862604777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7862635922",
+        "name": "Ev'deli",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.807723,
+          38.0552225
+        ]
+      },
+      "id": "node/7862635922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7862692352",
+        "name": "Porky",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8072877,
+          38.055267
+        ]
+      },
+      "id": "node/7862692352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8152093271",
+        "name": "Παυλίδης",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7042758,
+          37.9645021
+        ]
+      },
+      "id": "node/8152093271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8198344907",
+        "name": "Μορέντζος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7039517,
+          37.9670914
+        ]
+      },
+      "id": "node/8198344907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8198403418",
+        "name": "Υπαιθρος",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7055368,
+          37.9694777
+        ]
+      },
+      "id": "node/8198403418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213809637",
+        "name": "Η Λαμία",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7549806,
+          38.0214824
+        ]
+      },
+      "id": "node/8213809637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8406326978",
+        "name": "Αγνό Market",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7275077,
+          37.918965
+        ]
+      },
+      "id": "node/8406326978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8415091302",
+        "name": "Andriopoulos  Market κρεάτων και τροφίμων",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7439185,
+          37.9157077
+        ]
+      },
+      "id": "node/8415091302"
+    }
+  ]
+}
