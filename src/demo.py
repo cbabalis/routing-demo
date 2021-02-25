@@ -109,7 +109,7 @@ def main():
     graph = net_ops.load_graph_from_disk(graph_fpath)
     assigned_nodes_list = assign_points_to_nodes(point_coords_list, graph)
     nodes, edges = net_ops.get_nodes_edges(graph)
-    update_graph_nodes_with_POIs(nodes, assign_nodes_list)
+    update_graph_nodes_with_POIs(nodes, assigned_nodes_list)
     pdb.set_trace()
     # read/download network of interest
     # merge network to point of interest
