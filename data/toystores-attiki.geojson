@@ -1,0 +1,1925 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-02-23T15:03:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203723551",
+        "building": "retail",
+        "name": "Jumbo",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "shop": "toys",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.6428846,
+              37.9499895
+            ],
+            [
+              23.6428854,
+              37.9496544
+            ],
+            [
+              23.6428859,
+              37.9494844
+            ],
+            [
+              23.6432399,
+              37.9494867
+            ],
+            [
+              23.6435961,
+              37.9494855
+            ],
+            [
+              23.6435949,
+              37.9499906
+            ],
+            [
+              23.6428846,
+              37.9499895
+            ]
+          ]
+        ]
+      },
+      "id": "way/203723551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204736291",
+        "addr:city": "Άγιος Ιωάννης Ρέντης",
+        "addr:housenumber": "161",
+        "addr:street": "Πειραιώς",
+        "building": "yes",
+        "name": "Jumbo",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.6708364,
+              37.954163
+            ],
+            [
+              23.6714189,
+              37.9543494
+            ],
+            [
+              23.6711307,
+              37.9549092
+            ],
+            [
+              23.6710964,
+              37.9549758
+            ],
+            [
+              23.6706875,
+              37.9549147
+            ],
+            [
+              23.6706963,
+              37.9547879
+            ],
+            [
+              23.6706596,
+              37.9547782
+            ],
+            [
+              23.670733,
+              37.9543951
+            ],
+            [
+              23.6707859,
+              37.9544014
+            ],
+            [
+              23.6708364,
+              37.954163
+            ]
+          ]
+        ]
+      },
+      "id": "way/204736291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/268311541",
+        "building": "yes",
+        "name": "JUMBO",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.7080719,
+              37.995494
+            ],
+            [
+              23.7081374,
+              37.9954409
+            ],
+            [
+              23.7081234,
+              37.9954277
+            ],
+            [
+              23.7081273,
+              37.995416
+            ],
+            [
+              23.7082044,
+              37.9953526
+            ],
+            [
+              23.7082213,
+              37.9953473
+            ],
+            [
+              23.7082353,
+              37.9953616
+            ],
+            [
+              23.7083869,
+              37.9952387
+            ],
+            [
+              23.7084936,
+              37.9952094
+            ],
+            [
+              23.7085772,
+              37.9952918
+            ],
+            [
+              23.7086195,
+              37.99535
+            ],
+            [
+              23.7086832,
+              37.995319
+            ],
+            [
+              23.7087556,
+              37.9954313
+            ],
+            [
+              23.7086993,
+              37.9954768
+            ],
+            [
+              23.7088247,
+              37.9955671
+            ],
+            [
+              23.7089401,
+              37.9957218
+            ],
+            [
+              23.7090075,
+              37.995812
+            ],
+            [
+              23.7087869,
+              37.9959893
+            ],
+            [
+              23.7082078,
+              37.9955465
+            ],
+            [
+              23.7081749,
+              37.9955731
+            ],
+            [
+              23.7080719,
+              37.995494
+            ]
+          ]
+        ]
+      },
+      "id": "way/268311541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/399959993",
+        "addr:city": "Ελληνικό",
+        "addr:housenumber": "27",
+        "addr:postcode": "16777",
+        "addr:street": "Τιτάνων",
+        "building": "yes",
+        "name": "Μουστάκας",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.7411667,
+              37.9064409
+            ],
+            [
+              23.7411005,
+              37.9060318
+            ],
+            [
+              23.7410895,
+              37.9059642
+            ],
+            [
+              23.7415121,
+              37.9059123
+            ],
+            [
+              23.7415662,
+              37.9062361
+            ],
+            [
+              23.741592,
+              37.906389
+            ],
+            [
+              23.7411667,
+              37.9064409
+            ]
+          ]
+        ]
+      },
+      "id": "way/399959993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439144941",
+        "building": "yes",
+        "name": "ΜΟΥΣΤΑΚΑΣ ΠΑΙΧΝΙΔΙΑ",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.8391358,
+              38.049728
+            ],
+            [
+              23.8390151,
+              38.0495474
+            ],
+            [
+              23.8394286,
+              38.049379
+            ],
+            [
+              23.8395382,
+              38.0493302
+            ],
+            [
+              23.8395971,
+              38.0494144
+            ],
+            [
+              23.8395837,
+              38.0495939
+            ],
+            [
+              23.8393236,
+              38.0497037
+            ],
+            [
+              23.8392941,
+              38.0496615
+            ],
+            [
+              23.8391358,
+              38.049728
+            ]
+          ]
+        ]
+      },
+      "id": "way/439144941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/457542191",
+        "addr:city": "Ανθούσα",
+        "addr:housenumber": "8",
+        "addr:postcode": "15351",
+        "addr:street": "Ανθούσας",
+        "name": "Μουστάκας",
+        "shop": "toys",
+        "website": "https://www.moustakastoys.gr/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.8709133,
+              38.0090505
+            ],
+            [
+              23.8708742,
+              38.0086631
+            ],
+            [
+              23.8709075,
+              38.0085357
+            ],
+            [
+              23.8709915,
+              38.0083808
+            ],
+            [
+              23.8718108,
+              38.0082607
+            ],
+            [
+              23.8722518,
+              38.0081961
+            ],
+            [
+              23.8724765,
+              38.0084783
+            ],
+            [
+              23.8725248,
+              38.0085574
+            ],
+            [
+              23.8725849,
+              38.0087121
+            ],
+            [
+              23.8726168,
+              38.0088701
+            ],
+            [
+              23.8726445,
+              38.0089959
+            ],
+            [
+              23.8718392,
+              38.0090801
+            ],
+            [
+              23.8709003,
+              38.0091609
+            ],
+            [
+              23.8709133,
+              38.0090505
+            ]
+          ]
+        ]
+      },
+      "id": "way/457542191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496655894",
+        "addr:city": "Γαλάτσι",
+        "addr:street": "Γαλατσίου",
+        "building": "yes",
+        "name": "Max Stores",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.7483356,
+              38.0144705
+            ],
+            [
+              23.7482342,
+              38.0144074
+            ],
+            [
+              23.7482599,
+              38.0143818
+            ],
+            [
+              23.7481823,
+              38.0143336
+            ],
+            [
+              23.7481566,
+              38.0143592
+            ],
+            [
+              23.7479192,
+              38.0142116
+            ],
+            [
+              23.7479313,
+              38.0141593
+            ],
+            [
+              23.7484731,
+              38.0141567
+            ],
+            [
+              23.7484744,
+              38.0143014
+            ],
+            [
+              23.7484154,
+              38.01435
+            ],
+            [
+              23.7484308,
+              38.0143606
+            ],
+            [
+              23.7484168,
+              38.0143728
+            ],
+            [
+              23.7484308,
+              38.0143817
+            ],
+            [
+              23.7484127,
+              38.014396
+            ],
+            [
+              23.7483356,
+              38.0144705
+            ]
+          ]
+        ]
+      },
+      "id": "way/496655894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/583817487",
+        "addr:city": "Δήμος Λυκόβρυσης - Πεύκης",
+        "addr:street": "Αμαρουσίου",
+        "building": "yes",
+        "name": "Max Stores",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.7838661,
+              38.0609079
+            ],
+            [
+              23.7838055,
+              38.0607827
+            ],
+            [
+              23.7837835,
+              38.0607893
+            ],
+            [
+              23.783574,
+              38.0603567
+            ],
+            [
+              23.7837857,
+              38.0602931
+            ],
+            [
+              23.7840559,
+              38.0608509
+            ],
+            [
+              23.7838661,
+              38.0609079
+            ]
+          ]
+        ]
+      },
+      "id": "way/583817487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/742093872",
+        "building": "yes",
+        "name": "JUMBO",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.6701545,
+              37.9797588
+            ],
+            [
+              23.6695989,
+              37.9799764
+            ],
+            [
+              23.6695246,
+              37.9799011
+            ],
+            [
+              23.6693618,
+              37.9799736
+            ],
+            [
+              23.6692697,
+              37.9798397
+            ],
+            [
+              23.6692662,
+              37.9795105
+            ],
+            [
+              23.6698395,
+              37.9792622
+            ],
+            [
+              23.6701545,
+              37.9797588
+            ]
+          ]
+        ]
+      },
+      "id": "way/742093872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913575825",
+        "name": "JUMBO",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8067177,
+          38.1015735
+        ]
+      },
+      "id": "node/913575825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1753724826",
+        "addr:street": "Αραπάκη",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7016189,
+          37.9565981
+        ]
+      },
+      "id": "node/1753724826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102526836",
+        "name": "Παιχνίδια Μουστάκας",
+        "shop": "toys",
+        "website": "https://www.moustakastoys.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7825274,
+          38.049389
+        ]
+      },
+      "id": "node/2102526836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2674090257",
+        "indoor": "room",
+        "level": "0",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7751174,
+          37.973081
+        ]
+      },
+      "id": "node/2674090257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709261439",
+        "addr:city": "Πειραιάς",
+        "addr:country": "GR",
+        "addr:housenumber": "23",
+        "addr:postcode": "185 32",
+        "addr:street": "34ου Συντάγματος Πεζικού",
+        "name": "Jumbo",
+        "phone": "2104220500",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6495579,
+          37.9458062
+        ]
+      },
+      "id": "node/2709261439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2718827591",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "4",
+        "addr:street": "Φραττι",
+        "name": "ΟΠΑΠ",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7253707,
+          37.9686879
+        ]
+      },
+      "id": "node/2718827591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2878357283",
+        "addr:city": "Αθήνα",
+        "addr:country": "GR",
+        "addr:housenumber": "16",
+        "addr:postcode": "10434",
+        "addr:street": "Χέυδεν",
+        "name": "Perfect toys",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7303919,
+          37.9931203
+        ]
+      },
+      "id": "node/2878357283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3736992589",
+        "addr:city": "Καλλιθέα",
+        "addr:housenumber": "26",
+        "addr:street": "Ελευθερίου Βενιζέλου",
+        "name": "Max Stores",
+        "shop": "toys",
+        "website": "https://www.maxstores.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6947088,
+          37.9589594
+        ]
+      },
+      "id": "node/3736992589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3784600104",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6418103,
+          37.9335831
+        ]
+      },
+      "id": "node/3784600104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793368895",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "87-89",
+        "addr:postcode": "10555",
+        "addr:street": "Ερμού",
+        "name": "Μουστάκας",
+        "name:en": "Moustakas",
+        "shop": "toys",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7255705,
+          37.97666
+        ]
+      },
+      "id": "node/3793368895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3894185883",
+        "name": "Rose Poupee",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6504983,
+          37.9417816
+        ]
+      },
+      "id": "node/3894185883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3942492297",
+        "name": "Μουστάκας",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8276935,
+          38.1140872
+        ]
+      },
+      "id": "node/3942492297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3998351725",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "20",
+        "addr:postcode": "10562",
+        "addr:street": "Ρόμβης",
+        "name": "Cl starte",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7302023,
+          37.9770314
+        ]
+      },
+      "id": "node/3998351725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4004263535",
+        "name": "Jumbo",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.693325,
+          37.9346367
+        ]
+      },
+      "id": "node/4004263535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008256477",
+        "addr:city": "Πειραιάς",
+        "addr:housenumber": "153",
+        "addr:postcode": "185 35",
+        "addr:street": "Αλκιβιάδου",
+        "name": "Kalkito",
+        "phone": "+30 21 04132132",
+        "shop": "toys",
+        "website": "https://kalkito.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6473305,
+          37.9411271
+        ]
+      },
+      "id": "node/4008256477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030594706",
+        "name": "Tom Tom",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7408432,
+          37.9854747
+        ]
+      },
+      "id": "node/4030594706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030594724",
+        "description": "Wooden toys",
+        "name": "Κουρκάκης",
+        "shop": "toys",
+        "website": "https://www.plantoys.gr/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7349049,
+          37.9823559
+        ]
+      },
+      "id": "node/4030594724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4040706226",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "26",
+        "addr:street": "Βουκουρεστίου",
+        "name": "ZOUZOU",
+        "shop": "toys",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.737053,
+          37.9778944
+        ]
+      },
+      "id": "node/4040706226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4040706269",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "8",
+        "addr:street": "Ηράκλειτου",
+        "name": "Δημήτρης Βαρέλας",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7398704,
+          37.9780055
+        ]
+      },
+      "id": "node/4040706269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4041788701",
+        "addr:city": "Αθήνα",
+        "addr:postcode": "10563",
+        "addr:street": "Ερμού",
+        "name": "La vida",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7301627,
+          37.9764566
+        ]
+      },
+      "id": "node/4041788701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4041908060",
+        "addr:city": "Αθήνα",
+        "addr:postcode": "10563",
+        "addr:street": "Καπνικαρέας",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7285407,
+          37.9765895
+        ]
+      },
+      "id": "node/4041908060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4049265812",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "28",
+        "addr:postcode": "10560",
+        "addr:street": "Αγίου Μάρκου",
+        "name": "Naughty Little TURTLE",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7289925,
+          37.9788558
+        ]
+      },
+      "id": "node/4049265812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4060370025",
+        "addr:city": "Καλλιθέα",
+        "addr:housenumber": "201",
+        "addr:street": "Δημοσθένους",
+        "name": "Fun Planet",
+        "phone": "+30 21 0958 9788",
+        "shop": "toys",
+        "website": "https://www.funplanet.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6998991,
+          37.9488102
+        ]
+      },
+      "id": "node/4060370025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4060370027",
+        "addr:city": "Καλλιθέα",
+        "addr:street": "Δημοσθένους",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6985664,
+          37.9479116
+        ]
+      },
+      "id": "node/4060370027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092076346",
+        "name": "JUMBO",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83678,
+          38.044143
+        ]
+      },
+      "id": "node/4092076346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4269921589",
+        "addr:housenumber": "4",
+        "addr:postcode": "12241",
+        "addr:street": "Μάρκου Μπότσαρη",
+        "name": "Figures shop",
+        "phone": "2130048540",
+        "shop": "toys",
+        "website": "www.figuresshop.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6780924,
+          37.9914009
+        ]
+      },
+      "id": "node/4269921589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4285025597",
+        "name": "Ανέμη",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7672733,
+          37.994549
+        ]
+      },
+      "id": "node/4285025597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4294301692",
+        "addr:city": "Καλλιθέα",
+        "addr:housenumber": "285",
+        "addr:postcode": "17674",
+        "addr:street": "Ελευθερίου Βενιζέλου",
+        "name": "Smile",
+        "phone": "+30 21 0948 3004",
+        "shop": "toys",
+        "website": "https://smilestore.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6919623,
+          37.9495786
+        ]
+      },
+      "id": "node/4294301692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4337351085",
+        "name": "Genius",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6498009,
+          37.9420284
+        ]
+      },
+      "id": "node/4337351085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384285386",
+        "name": "Jumbolino",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7641795,
+          37.9562558
+        ]
+      },
+      "id": "node/4384285386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384300685",
+        "name": "Το παιχνίδι",
+        "shop": "toys",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7390501,
+          37.9778041
+        ]
+      },
+      "id": "node/4384300685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384302328",
+        "name": "Το παιδαγωγικό παιχνίδι",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7304346,
+          37.9848288
+        ]
+      },
+      "id": "node/4384302328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384306140",
+        "name": "Sport-Lilly-Billy",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.761105,
+          37.9813363
+        ]
+      },
+      "id": "node/4384306140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394190103",
+        "addr:housenumber": "73",
+        "addr:street": "Βρυούλων",
+        "name": "Piniata factory and more...",
+        "phone": "+30 69 72756022",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7592735,
+          37.969435
+        ]
+      },
+      "id": "node/4394190103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400862576",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "40",
+        "addr:street": "Δημητρακοπούλου Ν.",
+        "name": "Δαμίγος",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7261912,
+          37.9657457
+        ]
+      },
+      "id": "node/4400862576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447537394",
+        "addr:street": "Αχαρνών",
+        "name": "Jumbo",
+        "name:el": "Jumbo",
+        "name:en": "Jumbo",
+        "shop": "toys",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7287616,
+          38.0194382
+        ]
+      },
+      "id": "node/4447537394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4499090917",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "13",
+        "addr:postcode": "11523",
+        "addr:street": "Αλεξάνδρου Παυλή",
+        "name": "Αλογάκι",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.76419,
+          37.9924629
+        ]
+      },
+      "id": "node/4499090917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535962265",
+        "name": "Kalkito",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6923423,
+          37.9264318
+        ]
+      },
+      "id": "node/4535962265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4583646194",
+        "name:en": "Arti Passatempo",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8041177,
+          38.0553129
+        ]
+      },
+      "id": "node/4583646194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4682121550",
+        "addr:city": "Αθήνα",
+        "addr:postcode": "10564",
+        "addr:street": "Κοραή",
+        "name": "Imaginarium",
+        "opening_hours": "Su closed; Mo 09:00-16:00; Tu 09:00-21:00; We 09:00-16:00; Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-16:00",
+        "phone": "21 0322 4100",
+        "shop": "toys",
+        "website": "imaginarium.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7322607,
+          37.9797207
+        ]
+      },
+      "id": "node/4682121550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746029669",
+        "name": "Το γαϊτανάκι",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.773589,
+          38.0018843
+        ]
+      },
+      "id": "node/4746029669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4828494482",
+        "addr:city": "Αθήνα",
+        "addr:street": "Στρατηγού Καλλάρη",
+        "name": "Perfect Toys",
+        "operator": "Πανταζόπουλος",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72819,
+          38.012119
+        ]
+      },
+      "id": "node/4828494482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4872850440",
+        "name": "Δαμίγος",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7284937,
+          37.9825359
+        ]
+      },
+      "id": "node/4872850440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4891801228",
+        "addr:housenumber": "24",
+        "addr:street": "Αλέκου Παναγούλη",
+        "leisure": "escape_game",
+        "name": "The Box Escape",
+        "name:el": "The Box Escape",
+        "shop": "toys",
+        "website": "http://www.escapethebox.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7543351,
+          38.0481934
+        ]
+      },
+      "id": "node/4891801228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4896552402",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "71",
+        "addr:street": "Σιτάκης",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7467246,
+          38.0256271
+        ]
+      },
+      "id": "node/4896552402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5004794799",
+        "addr:city": "Γαλάτσι",
+        "addr:housenumber": "3",
+        "addr:street": "Ναρκίσσου",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7497918,
+          38.0229264
+        ]
+      },
+      "id": "node/5004794799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5019221245",
+        "name": "Fotonio",
+        "shop": "toys",
+        "website": "www.fotonio.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7268786,
+          37.9669572
+        ]
+      },
+      "id": "node/5019221245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5020025565",
+        "name": "Το Παιχνίδι",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8162973,
+          38.0121904
+        ]
+      },
+      "id": "node/5020025565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5279268710",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "23",
+        "addr:street": "Δρυόπων",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7105111,
+          37.9675222
+        ]
+      },
+      "id": "node/5279268710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5302519900",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "30",
+        "addr:street": "Ευριπίδου",
+        "name": "Το κέφι του παιδιού",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7273295,
+          37.9799113
+        ]
+      },
+      "id": "node/5302519900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5412310823",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6801417,
+          38.0329818
+        ]
+      },
+      "id": "node/5412310823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5424881027",
+        "addr:city": "Σπάτα Λούτσα",
+        "addr:postcode": "19004",
+        "name": "Jumbo",
+        "note": "2nd Floor",
+        "opening_hours": "Mo-Fr 10:00-21:00 Sa 10:00-20:00 Su closed",
+        "phone": "21 0663 0375",
+        "shop": "toys",
+        "website": "https://www.e-jumbo.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9119129,
+          37.9848994
+        ]
+      },
+      "id": "node/5424881027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5483687881",
+        "name": "Jack in the box",
+        "shop": "toys",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.743259,
+          37.9782036
+        ]
+      },
+      "id": "node/5483687881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5485168324",
+        "addr:city": "Αθήνα",
+        "addr:street": "Ιουλιανού",
+        "name": "Imaginarium",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7301343,
+          37.9913879
+        ]
+      },
+      "id": "node/5485168324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5496405126",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6521694,
+          37.977592
+        ]
+      },
+      "id": "node/5496405126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5694350330",
+        "addr:city": "Μαρούσι",
+        "addr:street": "Κηφισίας",
+        "name": "Zaharias",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7974393,
+          38.0363735
+        ]
+      },
+      "id": "node/5694350330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5749128960",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "113",
+        "addr:street": "Φιλολάου",
+        "name": "Jumbo",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7460527,
+          37.9628865
+        ]
+      },
+      "id": "node/5749128960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5824391319",
+        "addr:city": "Βριλήσσια",
+        "addr:housenumber": "5",
+        "addr:postcode": "15235",
+        "addr:street": "Πεντέλης",
+        "name": "Το παιχνίδι",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8241,
+          38.0352882
+        ]
+      },
+      "id": "node/5824391319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839870085",
+        "name": "Ganesh toys",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6671911,
+          37.9742221
+        ]
+      },
+      "id": "node/5839870085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5881548330",
+        "addr:city": "Περιστέρι",
+        "addr:housenumber": "2",
+        "addr:postcode": "12134",
+        "addr:street": "Σεβαστειας",
+        "name": "Παίζω",
+        "phone": "2105755236",
+        "shop": "toys",
+        "website": "https://www.paizw.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6938216,
+          38.011967
+        ]
+      },
+      "id": "node/5881548330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5885747260",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "1",
+        "addr:street": "Πλατεία Νοσοκομείου Παίδων",
+        "name": "γιο-γιο",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7675952,
+          37.9838519
+        ]
+      },
+      "id": "node/5885747260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6172471187",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "90",
+        "addr:street": "3ης Σεπτεμβρίου",
+        "name": "Perfect Toys",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7302461,
+          37.992341
+        ]
+      },
+      "id": "node/6172471187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6317087057",
+        "name": "Jumbo",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7495077,
+          38.0357992
+        ]
+      },
+      "id": "node/6317087057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6378071919",
+        "addr:city": "Νέα Ιωνία",
+        "addr:street": "Ηρακλείου",
+        "name": "Giocattolo",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.754867,
+          38.0440484
+        ]
+      },
+      "id": "node/6378071919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6538356561",
+        "addr:city": "Αθήνα",
+        "addr:street": "Θεοτόκη",
+        "name": "El greco",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7370159,
+          38.0224479
+        ]
+      },
+      "id": "node/6538356561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6595125749",
+        "addr:city": "Athens",
+        "addr:housenumber": "17",
+        "addr:street": "Λούβαρη",
+        "name": "Μουστάκας",
+        "opening_hours": "Mo-Fr 09:00-21:00;Sa 09:00-20:00; Su off",
+        "phone": "2161008080",
+        "shop": "toys",
+        "website": "https://www.moustakastoys.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7076566,
+          38.0064061
+        ]
+      },
+      "id": "node/6595125749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6646341289",
+        "addr:city": "Περιστέρι",
+        "addr:housenumber": "3",
+        "addr:postcode": "12131",
+        "addr:street": "Φιλικών",
+        "email": "orders@gamescom.gr",
+        "name": "gamescom.gr",
+        "phone": "2168007400",
+        "shop": "toys",
+        "website": "https://www.gamescom.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.700229,
+          38.0040886
+        ]
+      },
+      "id": "node/6646341289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6727852300",
+        "name": "Κ. Μαντας",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7256886,
+          37.9794511
+        ]
+      },
+      "id": "node/6727852300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6931397950",
+        "name": "Avrafarm.gr",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7479968,
+          38.0304114
+        ]
+      },
+      "id": "node/6931397950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7178159359",
+        "description": "Παιχνίδια και εποχιακά είδη",
+        "name": "Γιο-γιο",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6449832,
+          37.9458684
+        ]
+      },
+      "id": "node/7178159359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7233509352",
+        "name": "Μουστακάς Παιχνίδια",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6385369,
+          37.9521506
+        ]
+      },
+      "id": "node/7233509352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7235898819",
+        "addr:city": "Γαλάτσι",
+        "addr:housenumber": "25",
+        "addr:street": "Βεΐκου",
+        "name": "Παιχνιδούπολη",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7540121,
+          38.0153414
+        ]
+      },
+      "id": "node/7235898819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7835358099",
+        "addr:city": "Ζωγράφου",
+        "addr:housenumber": "122",
+        "addr:postcode": "15772",
+        "addr:street": "Στρατάρχου Αλέξανδρου Παπάγου",
+        "name": "ΚΑΤΕΡΙΝΑ",
+        "operator": "ΑΦΟΙ ΜΗΤΡ.",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7745508,
+          37.9764645
+        ]
+      },
+      "id": "node/7835358099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7977117513",
+        "addr:city": "Αθήνα",
+        "addr:country": "GR",
+        "addr:housenumber": "37",
+        "addr:postcode": "10552",
+        "addr:street": "Σωκράτους",
+        "name": "Palito",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7261879,
+          37.982215
+        ]
+      },
+      "id": "node/7977117513"
+    }
+  ]
+}
